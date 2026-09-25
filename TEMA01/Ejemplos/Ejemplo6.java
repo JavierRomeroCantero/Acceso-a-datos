@@ -1,4 +1,4 @@
-package TEMA01;
+package TEMA01.Ejemplos;
 import java.io.RandomAccessFile;
 
 public class Ejemplo6 {

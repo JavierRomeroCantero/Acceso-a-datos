@@ -1,4 +1,4 @@
-package TEMA01;
+package TEMA01.Ejemplos;
 import java.io.FileReader;
 import java.io.FileWriter;
 
