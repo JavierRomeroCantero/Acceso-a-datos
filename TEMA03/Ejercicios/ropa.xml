@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo_streetwear>
+    <prenda id="sw-001">
+        <tipo>Sudadera Oversize</tipo>
+        <marca>Supreme</marca>
+        <color>Negro</color>
+        <talla>L</talla>
+        <precio moneda="EUR">160.00</precio>
+        <stock>15</stock>
+    </prenda>
+    
+    <prenda id="sw-002">
+        <tipo>Pantalón Cargo</tipo>
+        <marca>Carhartt</marca>
+        <color>Verde</color>
+        <talla>M</talla>
+        <precio moneda="EUR">95.50</precio>
+        <stock>32</stock>
+    </prenda>
+    
+    <prenda id="sw-003">
+        <tipo>Zapatillas</tipo>
+        <marca>Nike</marca>
+        <modelo>Air Jordan 1 Retro High</modelo>
+        <color>Blanco</color>
+        <talla>42</talla>
+        <precio moneda="EUR">180.00</precio>
+        <stock>0</stock>
+    </prenda>
+
+    <prenda id="sw-004">
+        <tipo>Camiseta Gráfica</tipo>
+        <marca>Stüssy</marca>
+        <color>Blanco</color>
+        <talla>XL</talla>
+        <precio moneda="EUR">45.00</precio>
+        <stock>8</stock>
+    </prenda>
+</catalogo_streetwear>
